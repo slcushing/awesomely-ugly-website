@@ -96,3 +96,11 @@ ul > li {
     max-height: 250px;
     display: block;
 }
+
+marquee {
+    color: red;
+    font-size: xx-large;
+    font-weight:800;
+    background-color: yellow;
+    direction: left;
+}
