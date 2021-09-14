@@ -90,3 +90,9 @@ ul > li {
     font-size: 30px;
     font-family:cursive;
 }
+
+.stakeout {
+    max-width: 250px;
+    max-height: 250px;
+    display: block;
+}
